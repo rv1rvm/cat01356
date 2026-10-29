@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>CAT01356</title>
+<style>
+body {
+  background: #fff;
+  color: #111;
+  font-family: monospace;
+  text-align: center;
+  padding: 60px 15px;
+}
+h1 { letter-spacing: 12px; }
+p { font-size: 17px; line-height: 2; }
+</style>
+</head>
+<body>
+<h1>CAT01356</h1>
+<p>TRANSMISSION 001</p>
+<p>Every result has a place</p>
+<p>The order has never changed</p>
+<hr>
+<p>
+(3! + 6)<br>
+(2^4 - 1)<br>
+(5^2 - 10)<br>
+(√169 - 1)<br>
+(3^2)<br>
+(2^4 - 2)<br>
+(5^2 - 5)<br>
+(√64)<br>
+(√25)<br>
+(4^2 + 3)<br>
+(2^4 - 1)<br>
+(5^2 - 4)<br>
+(3^2 × 2)<br>
+(√9)<br>
+(√25)
+</p>
+<p>Numbers are only the beginning</p>
+</body>
+</html>
+
+<!-- Gur arkg xrl vf 01356 -->
